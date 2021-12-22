@@ -17,6 +17,6 @@ public class GeneralElements {
 
     @BeforeAll
     static void setMaxBrowserSize() {
-        Configuration.browserSize = "1700x1000";
+        Configuration.browserSize = "1400x1030";
     }
 }

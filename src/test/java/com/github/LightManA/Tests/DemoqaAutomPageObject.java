@@ -39,7 +39,5 @@ public class DemoqaAutomPageObject extends GeneralElements {
                 addressHouse,
                 addressState,
                 addressCity);
-
-        sleep(10000);
     }
 }
